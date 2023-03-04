@@ -1,0 +1,6 @@
+train: ./content/data/train/images
+val: ./content/data/valid/images
+
+# Classes
+names:
+  0: hole
