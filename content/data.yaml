@@ -1,5 +1,5 @@
 train: ./content/data/train/images
-val: ./content/data/valid/images
+val: ./content/data/train/images
 
 # Classes
 names:
